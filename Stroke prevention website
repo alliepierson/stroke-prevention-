@@ -1,0 +1,80 @@
+<!-- =========================
+BLOG POSTS: ADDITIONAL SAMPLE POSTS WITH ACADEMIC + PERSONAL TONE
+========================= -->
+
+<!-- =========================
+POST 2: Nutrition and Brain Health
+========================= -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nutrition and Brain Health</title>
+</head>
+<body>
+<header>
+  <h1>Nutrition and Brain Health: How What We Eat Affects Stroke Risk</h1>
+  <p>By Allie Pierson | High School Student Research Blog</p>
+</header>
+
+<section>
+  <div class="card">
+<p><strong>Academic perspective:</strong> Extensive research in public health and cardiovascular science demonstrates that regular physical activity plays a critical role in reducing stroke risk. Exercise helps regulate blood pressure, improve vascular function, and reduce inflammation—three key factors associated with ischemic and hemorrhagic strokes.</p>
+
+<p>According to national health organizations, even moderate physical activity, such as brisk walking for 30 minutes most days of the week, can significantly lower long-term stroke risk. These benefits are not limited to adults; establishing these habits during adolescence provides protective effects that extend into adulthood.</p>
+
+<p><strong>Personal perspective:</strong> As a high school student-athlete, learning about the science behind exercise and stroke prevention changed how I view physical activity. Training is no longer just about performance—it is also about investing in long-term brain and cardiovascular health.</p>
+
+<p>Researching this topic helped me understand that stroke prevention begins far earlier than most people expect. The habits we develop as teenagers can shape our health outcomes decades later, which is why education and prevention at a young age are so important.</p>
+</div>
+</section>
+
+<section>
+  <h2>References</h2>
+  <ul>
+    <li><a href="https://www.heart.org/en/healthy-living/healthy-eating" target="_blank">American Heart Association – Healthy Eating</a></li>
+    <li><a href="https://www.cdc.gov/stroke/prevention.htm" target="_blank">Centers for Disease Control and Prevention – Stroke Prevention</a></li>
+  </ul>
+</section>
+</body>
+</html>
+
+
+<!-- =========================
+POST 3: Oral Health and Stroke Risk
+========================= -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Oral Health and Stroke Risk</title>
+</head>
+<body>
+<header>
+  <h1>The Connection Between Oral Health and Stroke Risk</h1>
+  <p>By Allie Pierson | Aspiring Health Professional</p>
+</header>
+
+<section>
+  <div class="card">
+<p><strong>Academic perspective:</strong> Extensive research in public health and cardiovascular science demonstrates that regular physical activity plays a critical role in reducing stroke risk. Exercise helps regulate blood pressure, improve vascular function, and reduce inflammation—three key factors associated with ischemic and hemorrhagic strokes.</p>
+
+<p>According to national health organizations, even moderate physical activity, such as brisk walking for 30 minutes most days of the week, can significantly lower long-term stroke risk. These benefits are not limited to adults; establishing these habits during adolescence provides protective effects that extend into adulthood.</p>
+
+<p><strong>Personal perspective:</strong> As a high school student-athlete, learning about the science behind exercise and stroke prevention changed how I view physical activity. Training is no longer just about performance—it is also about investing in long-term brain and cardiovascular health.</p>
+
+<p>Researching this topic helped me understand that stroke prevention begins far earlier than most people expect. The habits we develop as teenagers can shape our health outcomes decades later, which is why education and prevention at a young age are so important.</p>
+</div>
+</section>
+
+<section>
+  <h2>References</h2>
+  <ul>
+    <li><a href="https://www.ada.org/resources/ada-library/oral-health-topics/oral-systemic-health" target="_blank">American Dental Association – Oral-Systemic Health</a></li>
+    <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6301754/" target="_blank">National Institutes of Health – Periodontal Disease and Stroke</a></li>
+  </ul>
+</section>
+</body>
+</html>
